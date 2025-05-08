@@ -150,10 +150,10 @@
         symbols_2_layer {
             label = "Sym.2";
             bindings = <
-&kp LCTRL  &kp UNDERSCORE  &kp IT_PND         &kp IT_EUR   &kp HASH       &none  &none  &none  &none  &none
-&kp GRAVE  &kp TILDE       &kp LS(BACKSLASH)  &kp PIPE     &kp AMPERSAND  &none  &none  &none  &none  &none
-&none      &none           &kp IT_SECT        &kp IT_CCED  &kp IT_DEG     &none  &none  &none  &none  &none
-                                              &none        &none          &none  &none
+&none          &none      &kp DE_EURO        &kp DE_CARET  &kp HASH       &kp DE_ACUTE    &kp GRAVE  &none  &none  &none
+&kp DE_DEGREE  &kp TILDE  &kp LS(BACKSLASH)  &kp PIPE      &kp AMPERSAND  &kp UNDERSCORE  &kp MINUS  &none  &none  &none
+&none          &none      &kp DE_SECTION     &none         &none          &none           &none      &none  &none  &none
+                                             &none         &none          &none           &none
             >;
         };
 
