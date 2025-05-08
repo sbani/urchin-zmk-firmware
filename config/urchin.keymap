@@ -4,10 +4,11 @@
  * SPDX-License-Identifier: MIT
  */
 
-#include "keymap_german_mac_iso.h"
 #include <behaviors.dtsi>
 #include <dt-bindings/zmk/bt.h>
 #include <dt-bindings/zmk/keys.h>
+#include <dt-bindings/zmk/outputs.h>
+#include "keys_de.h"
 
 // Layer definitions
 
